@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
       
-        <h4> I'm branch branch-one</h4>
+        <h4> I'm on branch master</h4>
 
       </header>
     </div>
