@@ -10,7 +10,7 @@ function App() {
         {/*<img src={logo} className="App-logo" alt="logo" />
         {/*<img src= "/logo.svg" className="App-logo" alt="logo" /> */}
         <Logo style={{height:200}}/>
-        <h1>React Posts Sharer</h1>
+        <h1>React Posts Share app</h1>
       </header>
       <Posts />
     </div>
